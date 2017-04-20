@@ -1,5 +1,4 @@
-# Hello,
-## World!
+# :pig: Hello, World! :pig:
 
 [My CIS 111 Website on UOregon](http://pages.uoregon.edu/torid/111/)
 
